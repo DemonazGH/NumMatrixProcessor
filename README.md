@@ -9,3 +9,6 @@ and dealing with inverse matrices. If you are working on your tech or math major
 your notebook.
 ![image](https://user-images.githubusercontent.com/51007840/170604196-0bfa035c-d20d-4b7a-a0da-6d3ff194613d.png)
 Recursive functions on stages 5 and 6 (determinant and inverse matrix) are not mine. Taken from Internet and adopted to my project.
+
+https://user-images.githubusercontent.com/51007840/191962130-1ca88481-a026-4d1c-9cbb-774fc2f2bb97.mp4
+
